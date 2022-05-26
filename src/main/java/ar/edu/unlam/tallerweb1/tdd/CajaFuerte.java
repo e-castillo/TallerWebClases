@@ -5,7 +5,7 @@ public class CajaFuerte {
     private Integer claveDeApertura;
     private Boolean estaAbierta;
     private Integer intentos;
-    
+
 
     public CajaFuerte(){
         estaAbierta = true;
